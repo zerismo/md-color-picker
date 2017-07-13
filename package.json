@@ -1,6 +1,6 @@
 {
   "name": "md-color-picker",
-  "version": "0.2.6",
+  "version": "v1.0.0-pre-alpha.4-sumo",
   "description": "Angular-Material inspired color picker.",
   "main": "dist/mdColorPicker.min.js",
   "dependencies": {
