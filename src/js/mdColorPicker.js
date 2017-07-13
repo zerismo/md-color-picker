@@ -440,7 +440,8 @@ angular.module('mdColorPicker', [])
 				icon: '@?',
 				random: '@?',
 				default: '@?',
-
+				style: '@?',
+				
 				// Dialog Options
 				openOnInput: '=?',
 				hasBackdrop: '=?',
